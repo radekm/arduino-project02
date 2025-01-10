@@ -1,6 +1,8 @@
 
 # Arduino: Spaceship Interface (project 2)
 
+![photo](spaceship-interface.jpg)
+
 Program for Arduino Uno R3. From Arduino Projects Book.
 
 ## On Mac
